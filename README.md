@@ -1,7 +1,7 @@
 🚀 Steps to Run the Application Locally
 1️⃣ Clone the repository
 ```git clone <your-repo-url>```
-cd <your-project-folder>
+```cd <your-project-folder>```
 
 2️⃣ Install dependencies
 ```npm install```
